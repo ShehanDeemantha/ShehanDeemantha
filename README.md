@@ -1,6 +1,6 @@
 ### Hi I'm Shehan Deemantha 👋
 
-<p><em>I'm Software Engineer at <a href="https://bileeta.com/">Bileeta
+<p><em>I'm a Software Engineer at <a href="https://bileeta.com/">Bileeta
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
